@@ -1,0 +1,32 @@
+{
+  "name": "kr.huny.connect",
+  "version": "1.0.0",
+  "description": "java micro dev site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node_modules/.bin/grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "jquery.1": "^1.0.0",
+    "summernote": "^0.8.2"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-css": "^0.5.4"
+  }
+}
